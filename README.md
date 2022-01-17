@@ -1,6 +1,6 @@
 # JSC370 Winter 2022
 
-You need to make a fork of this repository, add your name to the list below, following this format:
+You need to make a fork of this repository, and replace your name in the list below with your github, following this format:
 
 [**@username**](https://github.com/username/) something about you
 
@@ -20,6 +20,32 @@ Once you are done, submit a Pull Request to include your information in the orig
 
 # Students
 
+* Chen, Yu Hau          
+* Gao, Xiang            
+* Guo, Jianhong         
+* Han, Ziwen            
+* Hotz, Joseph          
+* Hua, Qiwen            
+* Huang, Cindy        
+* Huang, Yongzhen       
+* Li, Hantang           
+* Li, Shixuan           
+* Li, Zhengdan          
+* Liu, XinYi            
+* Matthew, Christopher  
+* Miao, Rui             
+* Nguyen, Chloe         
+* Peng, You             
+* Qian, Yufan           
+* Reza, Mohsin          
+* Sanchez, Mark JP      
+* Shan, Xinpeng         
+* Shang, Luyang         
+* Tang, Shi             
+* Wu, Fei             
+* Zhou, Shiyuan         
+* Zhou, Xiaotang        
+* Zhu, Warren     
 
 # Teaching Team
 

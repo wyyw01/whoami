@@ -26,7 +26,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 * Han, Ziwen            
 * Hotz, Joseph          
 * Hua, Qiwen            
-* Huang, Cindy        
+* [**@cindyellow**](https://github.com/cindyellow/) Hey there! I love trying new types of food, so feel free to send over recs anytime. One of my proudest achievements is a 1600+day streak on Duolingo.         
 * Huang, Yongzhen       
 * Li, Hantang           
 * Li, Shixuan           

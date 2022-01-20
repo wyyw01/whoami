@@ -31,7 +31,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 * Li, Hantang           
 * Li, Shixuan           
 * Li, Zhengdan          
-* Liu, XinYi            
+* [**@Helenlxy**](https://github.com/Helenlxy) I am a fourth-year Computer Science and Data Science student.  I have a cat named Jojo. <a href="https://ibb.co/6JDwmmv"><img src="https://i.ibb.co/6JDwmmv/IMG-9756.jpg" alt="IMG-9756" border="0"></a>         
 * Matthew, Christopher  
 * Miao, Rui             
 * Nguyen, Chloe         

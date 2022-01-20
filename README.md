@@ -2,7 +2,7 @@
 
 You need to make a fork of this repository, and replace your name in the list below with your github, following this format:
 
-[**@username**](https://github.com/username/) something about you
+[**@CoderWarren**](https://https://github.com/CoderWarren/) Hi, I'm Warren Zhu, and I absolutely love warm baked goods.
 
 For example:
       
@@ -25,11 +25,11 @@ Once you are done, submit a Pull Request to include your information in the orig
 * Guo, Jianhong         
 * [**@zw123han**](https://github.com/zw123han) I am a big Star Wars fan, but you can tell my by github profile picture.            
 * Hotz, Joseph          
-* Hua, Qiwen            
+* [**@huaqiwen**](https://github.com/huaqiwen/) My favourite food is hotpot.       
 * Huang, Cindy        
 * Huang, Yongzhen       
 * Li, Hantang           
-* Li, Shixuan           
+* [**@lsxna**](https://github.com/lsxna/) I am a fourth-year student. I am studying computer science and data science. I also enjoy learning different languages.
 * Li, Zhengdan          
 * Liu, XinYi            
 * Matthew, Christopher  
@@ -38,7 +38,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 * Peng, You             
 * Qian, Yufan           
 * Reza, Mohsin          
-* Sanchez, Mark JP      
+* [**@Mark-of-JP**](https://github.com/Mark-of-JP) I enjoy reading and cooking. My favourite thing to cook is braised tofu.
 * Shan, Xinpeng         
 * Shang, Luyang         
 * Tang, Shi             

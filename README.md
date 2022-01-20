@@ -45,7 +45,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 * Wu, Fei             
 * Zhou, Shiyuan         
 * Zhou, Xiaotang        
-* @CoderWarren Hi, I'm Warren Zhu, and I absolutely love warm baked goods. 
+* [**@CoderWarren**](https://https//github.com/CoderWarren/) Hi, I'm Warren Zhu, and I absolutely love warm baked goods. 
 
 # Teaching Team
 

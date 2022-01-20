@@ -24,7 +24,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 
 * Chen, Yu Hau [**@HowardChen123**](https://github.com/HowardChen123) I am a fourth-year student studying data science and computer science. I like to watch financial IQ related media in my free time.
 * Gao, Xiang            
-* Guo, Jianhong         
+* [**@Jianhong-Guo**](https://github.com/Jianhong-Guo) I like baking, and my favorite food is cake.              
 * [**@zw123han**](https://github.com/zw123han) I am a big Star Wars fan, but you can tell my by github profile picture.            
 * Hotz, Joseph          
 * [**@huaqiwen**](https://github.com/huaqiwen/) My favourite food is hotpot.       

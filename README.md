@@ -25,7 +25,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 * Guo, Jianhong         
 * Han, Ziwen            
 * Hotz, Joseph          
-* Hua, Qiwen            
+* [**@huaqiwen**](https://github.com/huaqiwen/) My favourite food is hotpot.       
 * Huang, Cindy        
 * Huang, Yongzhen       
 * Li, Hantang           

@@ -40,7 +40,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 * [**@matth221**](https://github.com/matth221/) I love FPS games, tetris and sports.         
 * Matthew, Christopher  
 * Miao, Rui             
-* Nguyen, Chloe         
+* [**@annguyen1404**](https://github.com/annguyen1404/) I like Taekwondo and chess. I own a black belt in Taekwondo and a FIDE title in chess.          
 * Peng, You             
 * [**@lynnqian**](https://github.com/lynnqian) My favorite sport is badminton and my favorite vegetable is potato.        
 * [**@SmokeTrails**](https://github.com/SmokeTrails) I love riding roller coasters!          

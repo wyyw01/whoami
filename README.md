@@ -34,7 +34,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 * Liu, XinYi            
 * Matthew, Christopher  
 * Miao, Rui             
-* [**annguyen1404**](https://github.com/annguyen1404/) I like Taekwondo and chess. I own a black belt in Taekwondo, a FIDE title in chess and have represented the country in various international tournaments.          
+* [**annguyen1404**](https://github.com/annguyen1404/) I like Taekwondo and chess. I own a black belt in Taekwondo and a FIDE title in chess.          
 * Peng, You             
 * Qian, Yufan           
 * Reza, Mohsin          

@@ -6,21 +6,23 @@ You need to make a fork of this repository, and replace your name in the list be
 
 For example:
       
-> [**@harrig12**](https://github.com/harrig12) My favourite food is pancakes and I like running 🏃‍♀️ my research is about using machine learning to understand cancer <img src="https://avatars.githubusercontent.com/u/23587234?s=400&u=ea93fb16bd1f0b9c3f1e0e420136e4a1919daff3&v=4" alt="a picture of me" width="40px"> 
+> [**@harrig12**](https://github.com/harrig12) My favourite food is pancakes and I like running 🏃
+♀️ my research is about using machine learning to understand cancer <img src="https://avatars.githubusercontent.com/u/23587234?s=400&u=ea93fb16bd1f0b9c3f1e0e420136e4a1919daff3&v=4" alt="a picture of me" width="40px"> 
 
 You can grab the image of your profile picture from your github account. Like any other markdown document, you can add links, images, even emojis 🍋🍰🐸 
 
 This is the code I used for writing that line:
 
 ```md
-[**@harrig12**](https://github.com/harrig12) My favourite food is pancakes and I like running 🏃‍♀️ my research is about using machine learning to understand cancer <img src="https://avatars.githubusercontent.com/u/23587234?s=400&u=ea93fb16bd1f0b9c3f1e0e420136e4a1919daff3&v=4" alt="a picture of me" width="40px"> 
+[**@harrig12**](https://github.com/harrig12) My favourite food is pancakes and I like running 🏃
+♀️ my research is about using machine learning to understand cancer <img src="https://avatars.githubusercontent.com/u/23587234?s=400&u=ea93fb16bd1f0b9c3f1e0e420136e4a1919daff3&v=4" alt="a picture of me" width="40px"> 
 ```
 
 Once you are done, submit a Pull Request to include your information in the original repository.
 
 # Students
 
-* Chen, Yu Hau          
+* Chen, Yu Hau [**@HowardChen123**](https://github.com/HowardChen123) I am a fourth-year student studying data science and computer science. I like to watch financial IQ related media in my free time.
 * Gao, Xiang            
 * Guo, Jianhong         
 * [**@zw123han**](https://github.com/zw123han) I am a big Star Wars fan, but you can tell my by github profile picture.            

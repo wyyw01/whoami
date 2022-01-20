@@ -45,7 +45,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 * [**@Mark-of-JP**](https://github.com/Mark-of-JP) I enjoy reading and cooking. My favourite thing to cook is braised tofu.
 * Shan, Xinpeng         
 * Shang, Luyang         
-* Tang, Shi             
+* @Tiffany0410 My fav food is french fries and I enjoy photographing and skiing :)
 * Wu, Fei             
 * Zhou, Shiyuan         
 * [**@jeffreyz374**](https://github.com/jeffreyz374) My (legal) name is Xiaotang Zhou but my preferred name is Jeffrey Zhou, and a fun fact about me is that I have travelled to all 7 continents on Earth.     

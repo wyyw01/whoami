@@ -41,7 +41,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 * Sanchez, Mark JP      
 * Shan, Xinpeng         
 * Shang, Luyang         
-* @Tiffany0410 My fav food is french fries and I enjoy photographing and skiing :)
+* [**@Tiffany0410**](https://github.com/Tiffany0410) My fav food is french fries and I enjoy photographing and skiing :)
 * Wu, Fei             
 * Zhou, Shiyuan         
 * Zhou, Xiaotang        

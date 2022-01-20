@@ -30,7 +30,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 * Huang, Yongzhen       
 * Li, Hantang           
 * Li, Shixuan           
-* Li, Zhengdan          
+* [**@Avery7Li**](https://github.com/Avery7Li) I like doing yoga and solving sudoku puzzles. My favorite season is spring.          
 * Liu, XinYi            
 * Matthew, Christopher  
 * Miao, Rui             

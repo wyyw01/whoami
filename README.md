@@ -36,7 +36,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 * Miao, Rui             
 * Nguyen, Chloe         
 * [**@Fredooooooo**](https://github.com/Fredooooooo) I like watching movies and anime. My favourite animes are RickandMorty and CowboyBebop. I also do fencing in my spare time.   
-* Qian, Yufan           
+* [**@lynnqian**](https://github.com/lynnqian) My favorite sport is badminton and my favorite vegetable is potato.      
 * Reza, Mohsin          
 * Sanchez, Mark JP      
 * Shan, Xinpeng         

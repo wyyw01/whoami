@@ -44,7 +44,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 * Tang, Shi             
 * Wu, Fei             
 * Zhou, Shiyuan         
-* Zhou, Xiaotang        
+* [**@jeffreyz374**](https://github.com/jeffreyz374) My (legal) name is Xiaotang Zhou but my preferred name is Jeffrey Zhou, and a fun fact about me is that I have travelled to all 7 continents on Earth.
 * Zhu, Warren     
 
 # Teaching Team

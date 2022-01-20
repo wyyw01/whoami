@@ -34,8 +34,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 * [**@lsxna**](https://github.com/lsxna/) I am a fourth-year student. I am studying computer science and data science. I also enjoy learning different languages.
 * Li, Zhengdan          
 * [**@Helenlxy**](https://github.com/Helenlxy) I am a fourth-year Computer Science and Data Science student.  I have a cat named Jojo. <a href="https://ibb.co/6JDwmmv"><img src="https://i.ibb.co/6JDwmmv/IMG-9756.jpg" alt="IMG-9756" border="0"></a>          
-* [**@matth221**](https://github.com/matth221/) I love FPS games, tetris and sports. 
-* [**@Helenlxy**](https://github.com/Helenlxy) I am a fourth-year Computer Science and Data Science student.  I have a cat named Jojo. <a href="https://ibb.co/6JDwmmv"><img src="https://i.ibb.co/6JDwmmv/IMG-9756.jpg" alt="IMG-9756" border="0"></a>         
+* [**@matth221**](https://github.com/matth221/) I love FPS games, tetris and sports.         
 * Matthew, Christopher  
 * Miao, Rui             
 * Nguyen, Chloe         

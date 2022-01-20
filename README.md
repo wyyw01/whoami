@@ -37,7 +37,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 * Nguyen, Chloe         
 * Peng, You             
 * [**@lynnqian**](https://github.com/lynnqian) My favorite sport is badminton and my favorite vegetable is potato.        
-* Reza, Mohsin          
+* [**@SmokeTrails**](https://github.com/SmokeTrails) I love riding roller coasters!          
 * [**@Mark-of-JP**](https://github.com/Mark-of-JP) I enjoy reading and cooking. My favourite thing to cook is braised tofu.
 * Shan, Xinpeng         
 * Shang, Luyang         

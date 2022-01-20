@@ -28,7 +28,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 * Hua, Qiwen            
 * Huang, Cindy        
 * Huang, Yongzhen       
-* Li, Hantang           
+* [**@Hantang-Li**](https://github.com/Hantang-Li) My favorite food is meat and I like skating. My research is mostly about machine learning. <img src="https://avatars.githubusercontent.com/u/27784582?s=400&v=4" alt="a picture of me" width="40px"> 
 * Li, Shixuan           
 * Li, Zhengdan          
 * Liu, XinYi            
@@ -52,5 +52,4 @@ Once you are done, submit a Pull Request to include your information in the orig
 * [**@meredithfranklin**](https://github.com/meredithfranklin)
 * [**@DarrenZhang01**](https://github.com/@DarrenZhang01)
 * Cait Harrigan
-
 

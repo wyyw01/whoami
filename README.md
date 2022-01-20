@@ -38,7 +38,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 * Peng, You             
 * Qian, Yufan           
 * Reza, Mohsin          
-* Sanchez, Mark JP      
+* [**@Mark-of-JP**](https://github.com/Mark-of-JP) I enjoy reading and cooking. My favourite thing to cook is braised tofu.
 * Shan, Xinpeng         
 * Shang, Luyang         
 * Tang, Shi             

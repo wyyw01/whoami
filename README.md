@@ -51,6 +51,6 @@ Once you are done, submit a Pull Request to include your information in the orig
 
 * [**@meredithfranklin**](https://github.com/meredithfranklin)
 * [**@DarrenZhang01**](https://github.com/@DarrenZhang01)
-* Cait Harrigan
+*  [**@harrig12**](https://github.com/harrig12) My favourite food is pancakes and I like running 🏃‍♀️ my research is about using machine learning to understand cancer <img src="https://avatars.githubusercontent.com/u/23587234?s=400&u=ea93fb16bd1f0b9c3f1e0e420136e4a1919daff3&v=4" alt="a picture of me" width="40px"> 
 
 

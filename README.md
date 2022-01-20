@@ -42,7 +42,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 * [**@lynnqian**](https://github.com/lynnqian) My favorite sport is badminton and my favorite vegetable is potato.        
 * Reza, Mohsin          
 * [**@Mark-of-JP**](https://github.com/Mark-of-JP) I enjoy reading and cooking. My favourite thing to cook is braised tofu.
-* Shan, Xinpeng         
+* [**@xinpeng13**](https://github.com/xinpeng13) I am a third year CS and DS student. I love visual art.
 * Shang, Luyang         
 * @Tiffany0410 My fav food is french fries and I enjoy photographing and skiing :)
 * Wu, Fei             

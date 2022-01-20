@@ -29,7 +29,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 * Huang, Cindy        
 * Huang, Yongzhen       
 * Li, Hantang           
-* Li, Shixuan           
+* [**@lsxna**](https://github.com/lsxna/) I am a fourth-year student. I am studying computer science and data science. I also enjoy learning different languages.
 * Li, Zhengdan          
 * Liu, XinYi            
 * Matthew, Christopher  

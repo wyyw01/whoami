@@ -2,7 +2,7 @@
 
 You need to make a fork of this repository, and replace your name in the list below with your github, following this format:
 
-[**@CoderWarren**](https://https://github.com/CoderWarren/) Hi, I'm Warren Zhu, and I absolutely love warm baked goods.
+[**@username**]() Something about you
 
 For example:
       
@@ -45,7 +45,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 * Wu, Fei             
 * Zhou, Shiyuan         
 * Zhou, Xiaotang        
-* Zhu, Warren     
+* @CoderWarren Hi, I'm Warren Zhu, and I absolutely love warm baked goods. 
 
 # Teaching Team
 

@@ -22,7 +22,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 
 * Chen, Yu Hau          
 * Gao, Xiang            
-* Guo, Jianhong         
+* Guo, Jianhong I like baking, and my favorite food is cake.      
 * Han, Ziwen            
 * Hotz, Joseph          
 * Hua, Qiwen            

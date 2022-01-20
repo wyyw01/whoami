@@ -32,7 +32,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 * Li, Shixuan           
 * Li, Zhengdan          
 * Liu, XinYi            
-* Matthew, Christopher  
+* [**@matth221**](https://github.com/matth221/) I love FPS games, tetris and sports. 
 * Miao, Rui             
 * Nguyen, Chloe         
 * Peng, You             

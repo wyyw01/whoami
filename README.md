@@ -49,6 +49,8 @@ Once you are done, submit a Pull Request to include your information in the orig
 * Shang, Luyang         
 * [**@Tiffany0410**](https://github.com/Tiffany0410) My fav food is french fries and I enjoy photographing and skiing :)
 * Wu, Fei             
+* [**@ZhouEEEEEE**](https://github.com/ZhouEEEEEE/) Hi, I'm Eric. I enjoy painting.         
+* Zhou, Xiaotang        
 * Zhou, Shiyuan         
 * [**@jeffreyz374**](https://github.com/jeffreyz374) My (legal) name is Xiaotang Zhou but my preferred name is Jeffrey Zhou, and a fun fact about me is that I have travelled to all 7 continents on Earth.     
 * [**@CoderWarren**](https://https//github.com/CoderWarren/) Hi, I'm Warren Zhu, and I absolutely love warm baked goods. 

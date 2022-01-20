@@ -24,7 +24,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 * Gao, Xiang            
 * Guo, Jianhong         
 * Han, Ziwen            
-* Hotz, Joseph          
+* [**@hotz1**](https://github.com/hotz1) Hi everyone, my name is Joey. I have lived in Toronto for my entire life (almost 21 years), and this is what I look like: <img src="https://avatars.githubusercontent.com/u/64807070?s=400&u=db10a3c384fc732bb8d533b47c18d32ffd0feb30&v=4" alt="Joey Hotz" width="40px"> I live at home with both of my parents, and I have two pet cats. I hope to meet y'all in person someday!          
 * Hua, Qiwen            
 * Huang, Cindy        
 * Huang, Yongzhen       

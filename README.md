@@ -35,7 +35,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 * Matthew, Christopher  
 * Miao, Rui             
 * Nguyen, Chloe         
-* Peng, You             
+* [**@Fredooooooo**](https://github.com/Fredooooooo) I like watching movies and anime. My favourite animes are RickandMorty and CowboyBebop. I also do fencing in my spare time.   
 * Qian, Yufan           
 * Reza, Mohsin          
 * Sanchez, Mark JP      

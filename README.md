@@ -2,7 +2,7 @@
 
 You need to make a fork of this repository, and replace your name in the list below with your github, following this format:
 
-[**@username**](https://github.com/username/) something about you
+[**@CoderWarren**](https://https://github.com/CoderWarren/) Hi, I'm Warren Zhu, and I absolutely love warm baked goods.
 
 For example:
       

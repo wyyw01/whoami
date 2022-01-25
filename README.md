@@ -20,11 +20,12 @@ Once you are done, submit a Pull Request to include your information in the orig
 
 # Students
 
+
 - Chen, Yu Hau [**@HowardChen123**](https://github.com/HowardChen123) I am a fourth-year student studying data science and computer science. I like to watch financial IQ related media in my free time.
 - Gao, Xiang
 - [**@Jianhong-Guo**](https://github.com/Jianhong-Guo) I like baking, and my favorite food is cake.
 - [**@zw123han**](https://github.com/zw123han) I am a big Star Wars fan, but you can tell my by github profile picture.
-- Hotz, Joseph
+- [**@hotz1**](https://github.com/hotz1) Hi everyone, my name is Joey. I have lived in Toronto for my entire life (almost 21 years), and this is what I look like: <img src="https://avatars.githubusercontent.com/u/64807070?s=400&u=db10a3c384fc732bb8d533b47c18d32ffd0feb30&v=4" alt="Joey Hotz" width="40px"> I live at home with both of my parents, and I have two pet cats. I hope to meet y'all in person someday!          
 - [**@huaqiwen**](https://github.com/huaqiwen/) My favourite food is hotpot.
 - Huang, Cindy
 - [**@hgeorge21**](https://github.com/hgeorge21/) I am a quant and I like trading  
@@ -51,6 +52,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 - Zhou, Xiaotang
 - [**@jeffreyz374**](https://github.com/jeffreyz374) My (legal) name is Xiaotang Zhou but my preferred name is Jeffrey Zhou, and a fun fact about me is that I have travelled to all 7 continents on Earth.
 - [**@CoderWarren**](https://https//github.com/CoderWarren/) Hi, I'm Warren Zhu, and I absolutely love warm baked goods.
+
 
 # Teaching Team
 

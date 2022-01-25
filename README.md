@@ -27,7 +27,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 * Hotz, Joseph          
 * [**@huaqiwen**](https://github.com/huaqiwen/) My favourite food is hotpot.       
 * Huang, Cindy        
-* Huang, Yongzhen       
+* [**@hgeorge21**](https://github.com/hgeorge21/) I am a quant and I like trading       
 * Li, Hantang           
 * Li, Shixuan           
 * [**@Avery7Li**](https://github.com/Avery7Li) I like doing yoga and solving sudoku puzzles. My favorite season is spring.          

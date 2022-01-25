@@ -27,8 +27,8 @@ Once you are done, submit a Pull Request to include your information in the orig
 - Hotz, Joseph
 - [**@huaqiwen**](https://github.com/huaqiwen/) My favourite food is hotpot.
 - Huang, Cindy
-* [**@hgeorge21**](https://github.com/hgeorge21/) I am a quant and I like trading  
-- Li, Hantang
+- [**@hgeorge21**](https://github.com/hgeorge21/) I am a quant and I like trading  
+- [**@Hantang-Li**](https://github.com/Hantang-Li) My favorite food is meat and I like skating. My research is mostly about machine learning. <img src="https://avatars.githubusercontent.com/u/27784582?s=400&v=4" alt="a picture of me" width="40px">        
 - Li, Shixuan
 - [**@Avery7Li**](https://github.com/Avery7Li) I like doing yoga and solving sudoku puzzles. My favorite season is spring.
 - Liu, XinYi
@@ -57,3 +57,4 @@ Once you are done, submit a Pull Request to include your information in the orig
 - [**@meredithfranklin**](https://github.com/meredithfranklin)
 - [**@DarrenZhang01**](https://github.com/@DarrenZhang01)
 - [**@harrig12**](https://github.com/harrig12) My favourite food is pancakes and I like running 🏃‍♀️ my research is about using machine learning to understand cancer <img src="https://avatars.githubusercontent.com/u/23587234?s=400&u=ea93fb16bd1f0b9c3f1e0e420136e4a1919daff3&v=4" alt="a picture of me" width="40px">
+

@@ -40,7 +40,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 - [**@Sean-1005**](https://github.com/Sean-1005/) heyy, I'm Amy. I like skating.
 - [**@annguyen1404**](https://github.com/annguyen1404/) I like Taekwondo and chess. I own a black belt in Taekwondo and a FIDE title in chess.
 - Peng, You
-- [**@lynnqian**](https://github.com/lynnqian) My favorite sport is badminton and my favorite vegetable is potato.
+- [**@lynnqian**](https://github.com/lynnqian) My favorite sport is badminton and my favorite vegetable is potato.      
 - [**@SmokeTrails**](https://github.com/SmokeTrails) I love riding roller coasters!
 - [**@Mark-of-JP**](https://github.com/Mark-of-JP) I enjoy reading and cooking. My favourite thing to cook is braised tofu.
 - [**@xinpeng13**](https://github.com/xinpeng13) I am a third year CS and DS student. I love visual art.

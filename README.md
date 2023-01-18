@@ -32,7 +32,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 - Jin Shang
 - Kevin Wang
 - Zhenyu Wang
-- Naihe Xiao
+- Naihe Xiao: Unfortunately I have not yet met everyone. Hope to see you guys in a month!
 - Zichun Xu
 - Chun Yin Yan
 - Runshi Yang

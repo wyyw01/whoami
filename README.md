@@ -23,7 +23,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 
 
 - Benson Chou
-- Evelyn Chou
+- [**@evelyn323**](https://github.com/evelyn323): Hi, I'm Evelyn and I love reading. 
 - [**@wisechua**](https://github.com/wisechua) Hi, my name is Wise and I am from Singapore. I love playing game 🎮 and watching drama. 
 - Mahathi Gandhamaneni: I am from Dubai, I love painting, watching TV shows, and exploring Toronto!
 - Jenny Lin

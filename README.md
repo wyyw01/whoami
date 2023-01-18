@@ -25,7 +25,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 - Benson Chou
 - Evelyn Chou
 - Wise Chua
-- Mahathi Gandhamaneni
+- Mahathi Gandhamaneni: I am from Dubai, I love painting, watching TV shows, and exploring Toronto!
 - Jenny Lin
 - Steven Liu
 - Yunni Qu

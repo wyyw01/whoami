@@ -21,22 +21,21 @@ Once you are done, submit a Pull Request to include your information in the orig
 
 # Students
 
-
-- Benson Chou
-- Evelyn Chou
-- Wise Chua
-- Mahathi Gandhamaneni
+- [**@Benson-chou**](https://github.com/Benson-chou) I am addicted to Genshin :). Save me
+- [**@evelyn323**](https://github.com/evelyn323): Hi, I'm Evelyn and I love reading. 
+- [**@wisechua**](https://github.com/wisechua) Hi, my name is Wise and I am from Singapore. I love playing game 🎮 and watching drama. 
+- Mahathi Gandhamaneni: I am from Dubai, I love painting, watching TV shows, and exploring Toronto!
 - [**@jennylin331431**](https://github.com/Jennylin331431) I am Jenny Lin, and I enjoy watching mukbangs! 
 - Steven Liu
 - Yunni Qu
 - Jin Shang
-- Kevin Wang
+- Kevin Wang: My only career goal is to meet Yann Lecun in person.
 - Zhenyu Wang
-- Naihe Xiao
-- Zichun Xu
+- Naihe Xiao: Unfortunately I have not yet met everyone. Hope to see you guys in a month!
+- [**@EVAXZC**](https://github.com/EVAXZC) My name is Zichun(Eva) Xu. I love travelling.
 - Chun Yin Yan
 - Runshi Yang
-- Chan Yi
+- [**@Chan-Y**](https://github.com/Chan-Y) Hi there, my name is Chan Yu, and my fav food is french fries🍟! <img src="https://avatars.githubusercontent.com/u/55168779?s=40&v=4" alt="image of my github profile picture" width="40px">
 - Wei Yu
 - Karim Zakir
 - William Zhang

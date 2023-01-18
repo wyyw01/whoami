@@ -30,9 +30,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 - Steven Liu
 - Yunni Qu
 - Jin Shang
-```md
-[**@Jin**](https://github.com/J36A) Hello, I am Jin. Recently, my friends ask me to play CSGO, a good game but it is too hard for me. :(
-```
+- [**@Jin**](https://github.com/J36A) Hello, I am Jin. Recently, my friends ask me to play CSGO, a good game but it is too hard for me. :(
 - Kevin Wang
 - Zhenyu Wang
 - Naihe Xiao

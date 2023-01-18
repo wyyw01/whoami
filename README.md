@@ -33,7 +33,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 - Kevin Wang
 - Zhenyu Wang
 - Naihe Xiao
-- Zichun Xu
+- [**@EVAXZC**](https://github.com/EVAXZC) My name is Zichun(Eva) Xu. I love travelling.
 - Chun Yin Yan
 - Runshi Yang
 - [**@Chan-Y**](https://github.com/Chan-Y) Hi there, my name is Chan Yu, and my fav food is french fries🍟! <img src="https://avatars.githubusercontent.com/u/55168779?s=40&v=4" alt="image of my github profile picture" width="40px">

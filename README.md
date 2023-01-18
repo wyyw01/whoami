@@ -23,8 +23,8 @@ Once you are done, submit a Pull Request to include your information in the orig
 
 - [**@Benson-chou**](https://github.com/Benson-chou) I am addicted to Genshin :). Save me
 - [**@evelyn323**](https://github.com/evelyn323): Hi, I'm Evelyn and I love reading. 
-- [**@wisechua**](https://github.com/wisechua) Hi, my name is Wise and I am from Singapore. I love playing game 🎮 and watching drama. 
-- Mahathi Gandhamaneni: I am from Dubai, I love painting, watching TV shows, and exploring Toronto!
+- [**@wisechua**](https://github.com/wisechua) Hi, my name is Wise and I am from Singapore. I love playing
+- [**@mahathicodes**](https://github.com/mahathicodes) I am from Dubai, I love painting, watching TV shows, and exploring Toronto!
 - [**@jennylin331431**](https://github.com/Jennylin331431) I am Jenny Lin, and I enjoy watching mukbangs! 
 - Steven Liu
 - Yunni Qu

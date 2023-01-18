@@ -28,7 +28,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 - [**@jennylin331431**](https://github.com/Jennylin331431) I am Jenny Lin, and I enjoy watching mukbangs! 
 - Steven Liu
 - Yunni Qu
-- Jin Shang
+- Jin Shang [**@Jin**](https://github.com/J36A) Hello, I am Jin. Recently, my friends ask me to play CSGO, a good game but it is too hard for me. :(
 - Kevin Wang: My only career goal is to meet Yann Lecun in person.
 - [**@wangz585**](https://github.com/wangz585) My name is Zhenyu, I like doing sports.
 - Naihe Xiao: Unfortunately I have not yet met everyone. Hope to see you guys in a month!

@@ -24,7 +24,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 
 - Benson Chou
 - Evelyn Chou
-- Wise Chua
+- [**@wisechua**](https://github.com/wisechua) Hi, my name is Wise and I am from Singapore. I love playing game 🎮 and watching drama. 
 - Mahathi Gandhamaneni
 - Jenny Lin
 - Steven Liu

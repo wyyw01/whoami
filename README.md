@@ -30,7 +30,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 - Yunni Qu
 - Jin Shang
 - Kevin Wang: My only career goal is to meet Yann Lecun in person.
-- Zhenyu Wang
+- [**@wangz585**](https://github.com/wangz585) My name is Zhenyu, I like doing sports.
 - Naihe Xiao: Unfortunately I have not yet met everyone. Hope to see you guys in a month!
 - [**@EVAXZC**](https://github.com/EVAXZC) My name is Zichun(Eva) Xu. I love travelling.
 - [Chun Yin Yan](https://github.com/Tyler-CY): Hello! I love studying at UofT (sometimes)!

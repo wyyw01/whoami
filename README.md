@@ -21,20 +21,19 @@ Once you are done, submit a Pull Request to include your information in the orig
 
 # Students
 
-
-- Benson Chou
-- Evelyn Chou
-- Wise Chua
-- Mahathi Gandhamaneni
-- Jenny Lin
+- [**@Benson-chou**](https://github.com/Benson-chou) I am addicted to Genshin :). Save me
+- [**@evelyn323**](https://github.com/evelyn323): Hi, I'm Evelyn and I love reading. 
+- [**@wisechua**](https://github.com/wisechua) Hi, my name is Wise and I am from Singapore. I love playing
+- [**@mahathicodes**](https://github.com/mahathicodes) I am from Dubai, I love painting, watching TV shows, and exploring Toronto!
+- [**@jennylin331431**](https://github.com/Jennylin331431) I am Jenny Lin, and I enjoy watching mukbangs! 
 - Steven Liu
 - Yunni Qu
-- Jin Shang
-- Kevin Wang
-- Zhenyu Wang
-- Naihe Xiao
+- Jin Shang [**@Jin**](https://github.com/J36A) Hello, I am Jin. Recently, my friends ask me to play CSGO, a good game but it is too hard for me. :(
+- [**Kevin Wang**](https://github.com/dungwoong): My only career goal is to meet Yann Lecun in person.
+- [**@wangz585**](https://github.com/wangz585) My name is Zhenyu, I like doing sports.
+- Naihe Xiao: Unfortunately I have not yet met everyone. Hope to see you guys in a month!
 - [**@EVAXZC**](https://github.com/EVAXZC) My name is Zichun(Eva) Xu. I love travelling.
-- Chun Yin Yan
+- [Chun Yin Yan](https://github.com/Tyler-CY): Hello! I love studying at UofT (sometimes)!
 - Runshi Yang
 - [**@Chan-Y**](https://github.com/Chan-Y) Hi there, my name is Chan Yu, and my fav food is french fries🍟! <img src="https://avatars.githubusercontent.com/u/55168779?s=40&v=4" alt="image of my github profile picture" width="40px">
 - [**@wyyw01**](https://github.com/wyyw01) Hi there, my name is Wei Yu. I am from U of T O(∩_∩)O. I like music, literature, etc. I also like eating, sleeping and playing. I am not good at playing video game but I like playing chess and especially like invariant kinds. I also like skiing but haven't been skiing for a long time since COVID started.

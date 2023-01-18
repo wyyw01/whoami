@@ -25,7 +25,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 - Benson Chou
 - Evelyn Chou
 - [**@wisechua**](https://github.com/wisechua) Hi, my name is Wise and I am from Singapore. I love playing game 🎮 and watching drama. 
-- Mahathi Gandhamaneni
+- Mahathi Gandhamaneni: I am from Dubai, I love painting, watching TV shows, and exploring Toronto!
 - Jenny Lin
 - Steven Liu
 - Yunni Qu
@@ -33,7 +33,6 @@ Once you are done, submit a Pull Request to include your information in the orig
 - Kevin Wang
 - Zhenyu Wang
 - Naihe Xiao: Unfortunately I have not yet met everyone. Hope to see you guys in a month!
-- Naihe Xiao
 - [**@EVAXZC**](https://github.com/EVAXZC) My name is Zichun(Eva) Xu. I love travelling.
 - Chun Yin Yan
 - Runshi Yang

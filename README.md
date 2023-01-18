@@ -14,7 +14,7 @@ You can grab the image of your profile picture from your github account. Like an
 This is the code I used for writing that line:
 
 ```md
-[**@mjmoon**](https://github.com/mjmoon) My guilt pleasures nowadays is listening to female K-pop groups 🎵 I study and teach statistics. <img src="https://avatars.githubusercontent.com/u/18671161?s=400&v=4" alt="A side headshot photo in black and white of Michael" width="60px">
+[**@mjmoon**](https://github.com/mjmoon) My guilty pleasures nowadays is listening to female K-pop groups 🎵 I study and teach statistics. <img src="https://avatars.githubusercontent.com/u/18671161?s=400&v=4" alt="A side headshot photo in black and white of Michael" width="60px">
 ```
 
 Once you are done, submit a Pull Request to include your information in the original repository.
@@ -46,5 +46,5 @@ Once you are done, submit a Pull Request to include your information in the orig
 # Teaching Team
 
 - [**@meredithfranklin**](https://github.com/meredithfranklin)
-- [**@mjmoon**](https://github.com/mjmoon) My guilt pleasures nowadays is listening to female K-pop groups 🎵 I study and teach statistics. <img src="https://avatars.githubusercontent.com/u/18671161?s=400&v=4" alt="A side headshot photo in black and white of Michael" width="60px">
+- [**@mjmoon**](https://github.com/mjmoon) My guilty pleasures nowadays is listening to female K-pop groups 🎵 I study and teach statistics. <img src="https://avatars.githubusercontent.com/u/18671161?s=400&v=4" alt="A side headshot photo in black and white of Michael" width="60px">
 

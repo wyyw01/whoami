@@ -35,8 +35,8 @@ Once you are done, submit a Pull Request to include your information in the orig
 - [**@EVAXZC**](https://github.com/EVAXZC) My name is Zichun(Eva) Xu. I love travelling.
 - [Chun Yin Yan](https://github.com/Tyler-CY): Hello! I love studying at UofT (sometimes)!
 - Runshi Yang
-- [**@Chan-Y**](https://github.com/Chan-Y) Hi there, my name is Chan Yu, and my fav food is french fries🍟! <img src="https://avatars.githubusercontent.com/u/55168779?s=40&v=4" alt="image of my github profile picture" width="40px">
-- Wei Yu
+- [**@Chan-Y**](https://github.com/Chan-Y) Hi there, my name is Chan Yu, and my fav food is
+- [**@wyyw01**](https://github.com/wyyw01) Hi there, my name is Wei Yu. I like many things.
 - [**@karimzakir02**](https://github.com/karimzakir02). I am from Russia. I like cooking! (☞ ͡° ͜ʖ ͡°)☞
 - William Zhang [**@WilliamQD**](https://github.com/WilliamQD) Suppp! I'm William. I like to sit in the front rows of every lecture. Looking forward to meet everyone! <img src="https://avatars.githubusercontent.com/u/54301360?s=460&v=4" alt="head photo of William" width="80px">
 - Hongshuo Zhou (https://github.com/HS-ZHOU) Hi, I'm from China and my favorite sport is tennis🎾. Hope everyone has a wonderful semester🎉!

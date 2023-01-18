@@ -39,7 +39,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 - Chan Yi
 - Wei Yu
 - Karim Zakir
-- William Zhang
+- William Zhang [**@WilliamQD**](https://github.com/WilliamQD) Suppp! I'm William. I like to sit in the front rows of every lecture. Looking forward to meet everyone! <img src="https://avatars.githubusercontent.com/u/54301360?s=460&v=4" alt="head photo of William" width="80px">
 - Hongshuo Zhou
 
 

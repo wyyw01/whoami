@@ -37,7 +37,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 - Chun Yin Yan
 - Runshi Yang
 - [**@Chan-Y**](https://github.com/Chan-Y) Hi there, my name is Chan Yu, and my fav food is french fries🍟! <img src="https://avatars.githubusercontent.com/u/55168779?s=40&v=4" alt="image of my github profile picture" width="40px">
-- [**@wyyw01**](https://github.com/wyyw01) Hi there, my name is Wei Yu. I like many things.
+- [**@wyyw01**](https://github.com/wyyw01) Hi there lol, my name is Wei Yu. I like many things。
 - Karim Zakir
 - William Zhang
 - Hongshuo Zhou

@@ -38,7 +38,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 - Runshi Yang
 - Chan Yi
 - Wei Yu
-- Karim Zakir
+- [**karimzakir02**]. I am from Russia. I like cooking! (☞ ͡° ͜ʖ ͡°)☞
 - William Zhang
 - Hongshuo Zhou
 

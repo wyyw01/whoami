@@ -2,7 +2,7 @@
 
 You need to make a fork of this repository, and replace your name in the list below with your github, following this format:
 
-[**@username**]() Something about you
+[**@jin**](https://github.com/J36A) Recently, my friends ask me to play Dota. But this game is hard for me ...
 
 For example:
 

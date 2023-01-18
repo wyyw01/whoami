@@ -30,7 +30,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 - Steven Liu
 - Yunni Qu
 - Jin Shang
-- Kevin Wang
+- Kevin Wang: My only career goal is to meet Yann Lecun in person.
 - Zhenyu Wang
 - Naihe Xiao
 - Zichun Xu

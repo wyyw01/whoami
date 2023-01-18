@@ -23,7 +23,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 
 
 - Benson Chou
-- Evelyn Chou: I am from Taiwan, I love reading. 
+- Evelyn Chou: Hi, I'm Evelyn and I love reading. 
 - Wise Chua
 - Mahathi Gandhamaneni
 - Jenny Lin

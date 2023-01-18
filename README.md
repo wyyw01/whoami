@@ -33,7 +33,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 - Kevin Wang
 - Zhenyu Wang
 - Naihe Xiao
-- Zichun Xu I am from China, I love travelling.
+- [**@EVAXZC**](https://github.com/EVAXZC) My name is Zichun(Eva) Xu. I love travelling.
 - Chun Yin Yan
 - Runshi Yang
 - Chan Yi

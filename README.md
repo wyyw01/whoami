@@ -36,7 +36,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 - [Chun Yin Yan](https://github.com/Tyler-CY): Hello! I love studying at UofT (sometimes)!
 - Runshi Yang
 - [**@Chan-Y**](https://github.com/Chan-Y) Hi there, my name is Chan Yu, and my fav food is french fries🍟! <img src="https://avatars.githubusercontent.com/u/55168779?s=40&v=4" alt="image of my github profile picture" width="40px">
-- [**@wyyw01**](https://github.com/wyyw01) Hi there, my name is Wei Yu. I am from U of T O(∩_∩)O. I like music, literature, etc. I also like eating, sleeping and playing. I am not good at playing video game but I like playing chess and especially like invariant kinds. I also like skiing but haven't been skiing for a long time since COVID started.
+- [**@wyyw01**](https://github.com/wyyw01) Hi there, my name is Wei Yu. I am from U of T O(∩_∩)O. I like music, literature, etc. I also like eating, sleeping and playing. I am not good at playing video game but I like playing chess and especially like invariant kinds. I also like skiing but haven't been skiing for a long time since COVID started. 
 - Karim Zakir
 - William Zhang
 - Hongshuo Zhou

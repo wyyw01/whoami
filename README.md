@@ -21,8 +21,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 
 # Students
 
-
-- Benson Chou
+- [**@Benson-chou**](https://github.com/Benson-chou) I am addicted to Genshin :). Save me
 - Evelyn Chou
 - Wise Chua
 - Mahathi Gandhamaneni

@@ -2,7 +2,7 @@
 
 You need to make a fork of this repository, and replace your name in the list below with your github, following this format:
 
-[**@jin**](https://github.com/J36A) Recently, my friends ask me to play Dota. But this game is hard for me ...
+[**@username**]() Something about you
 
 For example:
 
@@ -30,6 +30,9 @@ Once you are done, submit a Pull Request to include your information in the orig
 - Steven Liu
 - Yunni Qu
 - Jin Shang
+```md
+[**@Jin**](https://github.com/J36A) Hello, I am Jin. Recently, my friends ask me to play CSGO, a good game but it is too hard for me. :(
+```
 - Kevin Wang
 - Zhenyu Wang
 - Naihe Xiao

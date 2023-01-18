@@ -40,7 +40,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 - Wei Yu
 - Karim Zakir
 - William Zhang
-- Hongshuo Zhou
+- Hongshuo Zhou (https://github.com/HS-ZHOU) Hi, I'm from China and my favorite sport is tennis🎾. Hope everyone has a wonderful semester🎉!
 
 
 # Teaching Team

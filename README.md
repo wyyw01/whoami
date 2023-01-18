@@ -34,7 +34,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 - Naihe Xiao: Unfortunately I have not yet met everyone. Hope to see you guys in a month!
 - [**@EVAXZC**](https://github.com/EVAXZC) My name is Zichun(Eva) Xu. I love travelling.
 - [Chun Yin Yan](https://github.com/Tyler-CY): Hello! I love studying at UofT (sometimes)!
-- Runshi Yang
+- [**@Runshi-Yang**](https://github.com/Runshi-Yang) Hi, my name is Runshi   Yang, I love snowboarding🏂！<img src="https://raw.githubusercontent.com/Runshi-Yang/Runshi-Yang/main/IMG_3185.JPG" alt="image of a handsome person"    width="100px">
 - [**@Chan-Y**](https://github.com/Chan-Y) Hi there, my name is Chan Yu, and my fav food is
 - [**@wyyw01**](https://github.com/wyyw01) Hi there, my name is Wei Yu. I like many things.
 - [**@karimzakir02**](https://github.com/karimzakir02). I am from Russia. I like cooking! (☞ ͡° ͜ʖ ͡°)☞

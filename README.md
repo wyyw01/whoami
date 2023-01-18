@@ -34,7 +34,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 - Zhenyu Wang
 - Naihe Xiao
 - Zichun Xu
-- Chun Yin Yan
+- Chun Yin Yan: Hello! I love studying at UofT!
 - Runshi Yang
 - Chan Yi
 - Wei Yu

@@ -26,7 +26,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 - Evelyn Chou
 - Wise Chua
 - Mahathi Gandhamaneni
-- Jenny Lin
+- I am Jenny Lin, and I enjoy watching mukbangs! 
 - Steven Liu
 - Yunni Qu
 - Jin Shang

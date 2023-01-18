@@ -34,7 +34,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 - Zhenyu Wang
 - Naihe Xiao
 - Zichun Xu
-- Chun Yin Yan: Hello! I love studying at UofT!
+- [Chun Yin Yan](https://github.com/Tyler-CY): Hello! I love studying at UofT (sometimes)!
 - Runshi Yang
 - Chan Yi
 - Wei Yu

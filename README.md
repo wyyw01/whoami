@@ -31,7 +31,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 - Yunni Qu
 - Jin Shang
 - Kevin Wang
-- Zhenyu Wang
+- [**@wangz585**](https://github.com/wangz585) My name is Zhenyu, I like doing sports.
 - Naihe Xiao
 - Zichun Xu
 - Chun Yin Yan

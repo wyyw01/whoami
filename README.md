@@ -32,6 +32,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 - Jin Shang
 - Kevin Wang
 - Zhenyu Wang
+- Naihe Xiao: Unfortunately I have not yet met everyone. Hope to see you guys in a month!
 - Naihe Xiao
 - [**@EVAXZC**](https://github.com/EVAXZC) My name is Zichun(Eva) Xu. I love travelling.
 - Chun Yin Yan
